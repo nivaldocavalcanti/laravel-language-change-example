@@ -4,26 +4,36 @@ This project was built with [Laravel](https://github.com/nivaldocavalcanti/larav
 
 ## Project Requirements
 - [PHP](https://www.php.net/downloads.php) >= 7.3 with extensions:
- * BCMath PHP Extension
- * Ctype PHP Extension
- * Fileinfo PHP Extension
- * JSON PHP Extension
- * Mbstring PHP Extension
- * OpenSSL PHP Extension
- * PDO PHP Extension
- * Tokenizer PHP Extension
- * XML PHP Extension
+
+    - BCMath PHP Extension
+    
+    - Ctype PHP Extension
+    
+    - Fileinfo PHP Extension
+    
+    - JSON PHP Extension
+    
+    - Mbstring PHP Extension
+    
+    - OpenSSL PHP Extension
+    
+    - PDO PHP Extension
+    
+    - Tokenizer PHP Extension
+    
+    - XML PHP Extension
+
 - [Composer](https://getcomposer.org/)
 
 ## Get Started
 
-* clone this project `git clone https://github.com/nivaldocavalcanti/laravel-language-change-example.git`
-* enter the project folder `cd laravel-language-change-example`
-* install all project dependencies with `composer install`
-* create .env file from example by renaming it from .env.example file or with `cp .env.example .env`
-* generate app key with `php artisan key:generate`
-* start the server with `php artisan serve` or if you already have a local server just go to your browser `https://localhost/laravel-language-change-example`
-* select the language you want to see and see the text changes on the screen
+- clone this project `git clone https://github.com/nivaldocavalcanti/laravel-language-change-example.git`
+- enter the project folder `cd laravel-language-change-example`
+- install all project dependencies with `composer install`
+- create **.env** file from example by renaming it from **.env.example** file or copying with `cp .env.example .env`
+- generate app key with `php artisan key:generate`
+- start the server with `php artisan serve` or if you already have a local server just go to your browser `https://localhost/laravel-language-change-example`
+- select the language you want to see and see the text changes on the screen
 
 ## About Laravel
 
