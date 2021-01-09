@@ -49,4 +49,4 @@ Thank you for considering contributing to this! I will analyze and accept any pu
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT) so this project is the same.
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT) so this project follow the same [LICENSE](https://github.com/nivaldocavalcanti/laravel-language-change-example/blob/master/LICENSE).
